@@ -1,4 +1,4 @@
-num1=10
-num2=5
+num1=int(input("enter the first number"))
+num2=int(input("enter the first number"))
 result=num1*num2
 print(result)
