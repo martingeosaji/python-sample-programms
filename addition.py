@@ -1,4 +1,4 @@
-a=3
-b=6
+a=input("enter the number")
+b=input("enter the number")
 result=a+b
 print(result)
